@@ -1,0 +1,1 @@
+这是shop的readme.txt
